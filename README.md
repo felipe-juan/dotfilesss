@@ -48,7 +48,7 @@
 - Zen Browser
 
 ## Random changes I made recently
-- BlackBox:
+- BlackBox
   - No transparency
   - 15px Padding
 - Gnome Tweaks

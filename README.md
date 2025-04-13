@@ -1,3 +1,62 @@
 # dotfilesss
 (WIP) A simpler Linux rice.
 ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20from%202024-10-22%2010-11-36.png)
+![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-04-13%2009-26-51.png)
+
+## Current Theme:
+- Orochis Dark
+- Default Fonts
+- Default Icons
+
+## Current Extensions:
+- Blur my Shell
+- Color Picker
+- Compact Top Bar
+- Dash to Dock
+- Forge
+- Gnome 4x UI Improvements
+- Just Perfection
+- Media Controls
+- Pano - Clipboard Manager
+- Quick Close in Overview
+- Rounded Window Corners Reborn
+- Transparent Window Moving
+- Unite
+- Vitals
+
+## Current Applications
+- Anki
+- Black Box
+- Drawing
+- Foliarte
+- Lutris
+- LocalSend
+- LibreSprite
+- Kooha
+- Krita
+- Obsidian
+- Steam
+- Spotify + SpotX
+- qBittorrent
+- Syncthing
+- Kdenlive
+- Tweaks
+- TickTick
+- KindleComicConverter
+- Xournal++
+- Zen Browser
+
+## Random changes I made recently
+- BlackBox:
+  - No transparency
+  - 15px Padding
+- Gnome Tweaks
+  - Startup Applications
+    - Start Syncthing
+    - io.github.mrvladus.List
+  - Windows
+    - Focus on Hover 
+- Forge
+  - White Outline
+- Settings
+  - Display > 125% Scale

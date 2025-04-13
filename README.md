@@ -65,5 +65,6 @@
     - Focus on Hover 
 - Pop Shell / Forge
   - White Outline
+  - Smart Gaps Disabled (Pop Shell)
 - Settings
   - Display > 125% Scale

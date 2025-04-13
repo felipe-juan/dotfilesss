@@ -28,8 +28,13 @@
 ### Current Applications
 - Anki
 - Black Box
+- Calibre
+- Document Viewer
 - Drawing
+- Extension Manager
+- Eye of GNOME
 - Foliarte
+- Identify
 - Lutris
 - LocalSend
 - LibreSprite
@@ -39,6 +44,7 @@
 - Steam
 - Spotify + SpotX
 - qBittorrent
+- Stremio
 - Syncthing
 - Kdenlive
 - Tweaks
@@ -57,7 +63,7 @@
     - io.github.mrvladus.List
   - Windows
     - Focus on Hover 
-- Forge
+- Pop Shell / Forge
   - White Outline
 - Settings
   - Display > 125% Scale

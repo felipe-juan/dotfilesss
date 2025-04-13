@@ -1,15 +1,15 @@
 # dotfilesss
-(WIP) A simpler Linux rice.
+## (WIP) A simpler Linux rice.
 ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20from%202024-10-22%2010-11-36.png)
 ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-04-13%2010-53-18.png)
 
-## Current Theme:
+### Current Theme:
 - Orochis Dark
 - Default Fonts
 - Default Icons
 - Dark Pastel - Black Box
 
-## Current Extensions:
+### Current Extensions:
 - Blur my Shell
 - Color Picker
 - Compact Top Bar
@@ -25,7 +25,7 @@
 - Unite
 - Vitals
 
-## Current Applications
+### Current Applications
 - Anki
 - Black Box
 - Drawing
@@ -47,7 +47,7 @@
 - Xournal++
 - Zen Browser
 
-## Random changes I made recently
+### Random changes I made recently
 - BlackBox
   - No transparency
   - 15px Padding

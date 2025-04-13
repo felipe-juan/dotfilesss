@@ -7,6 +7,7 @@
 - Orochis Dark
 - Default Fonts
 - Default Icons
+- Dark Pastel - Black Box
 
 ## Current Extensions:
 - Blur my Shell

@@ -22,6 +22,7 @@
 - Pop Shell
 - Quick Close in Overview
 - Rounded Window Corners Reborn
+- Task Widget
 - Transparent Window Moving
 - Unite
 - Vitals
@@ -32,6 +33,7 @@
 - Calibre
 - Document Viewer
 - Drawing
+- Endeavour
 - Extension Manager
 - Eye of GNOME
 - Foliarte

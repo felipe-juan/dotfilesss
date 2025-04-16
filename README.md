@@ -7,6 +7,7 @@
 - Orochis Dark
 - Default Fonts
 - Default Icons
+- Sunity Cursor
 - Dark Pastel - Black Box
 
 ### Current Extensions
@@ -14,11 +15,11 @@
 - Color Picker
 - Compact Top Bar
 - Dash to Dock
-- Forge
 - Gnome 4x UI Improvements
 - Just Perfection
 - Media Controls
 - Pano - Clipboard Manager
+- Pop Shell
 - Quick Close in Overview
 - Rounded Window Corners Reborn
 - Transparent Window Moving

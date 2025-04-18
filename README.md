@@ -31,7 +31,6 @@
 - Anki
 - Black Box
 - Calibre
-- Document Viewer
 - Drawing
 - Endeavour
 - Extension Manager
@@ -47,6 +46,7 @@
 - Steam
 - Spotify + SpotX
 - qBittorrent
+- Papers
 - Stremio
 - Syncthing
 - Kdenlive

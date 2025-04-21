@@ -69,3 +69,10 @@
   - Smart Gaps Disabled (Pop Shell)
 - Settings
   - Display > 125% Scale
+
+### GSettings alterations
+`gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`
+
+`gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true`
+
+`gsettings set org.gnome.shell.window-switcher current-workspace-only false`

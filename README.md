@@ -41,7 +41,7 @@
 - Kooha
 - Krita
 - Obsidian
-- OneDrive Client
+- OneDrive Client + GUI
 - Steam
 - Spotify + SpotX
 - qBittorrent

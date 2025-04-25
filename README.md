@@ -14,6 +14,7 @@
 - Blur my Shell
 - Color Picker
 - Compact Top Bar
+- Cozy
 - Dash to Dock
 - Gnome 4x UI Improvements
 - Just Perfection

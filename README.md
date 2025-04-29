@@ -39,6 +39,7 @@
 - Lutris
 - LocalSend
 - LibreSprite
+- KindleComicConverter
 - Kooha
 - Krita
 - Obsidian
@@ -52,7 +53,7 @@
 - Kdenlive
 - Tweaks
 - TickTick
-- KindleComicConverter
+- VSCodium
 - Xournal++
 - Zen Browser
 

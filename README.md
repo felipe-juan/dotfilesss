@@ -72,6 +72,8 @@
   - Smart Gaps Disabled (Pop Shell)
 - Settings
   - Display > 125% Scale
+- ZenBrowser / FireFox
+  - about:config -> disable middle click paste
 
 ### GSettings alterations
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`

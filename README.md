@@ -36,6 +36,7 @@
 - Eye of GNOME
 - Foliarte
 - Identify
+- IntelliJ Community
 - Lutris
 - LocalSend
 - LibreSprite

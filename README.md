@@ -41,12 +41,11 @@
 - LocalSend
 - LibreSprite
 - KindleComicConverter
-- Kooha
 - Krita
 - Obsidian
 - OneDrive Client + GUI
 - Steam
-- Spotify + SpotX
+- YouTube Music
 - qBittorrent
 - Papers
 - Stremio

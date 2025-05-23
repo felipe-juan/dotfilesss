@@ -72,6 +72,9 @@
   - Smart Gaps Disabled (Pop Shell)
 - Settings
   - Display > 125% Scale
+- OpenTabletDriver
+  - DualActionBinds Plugin
+  - Pen Binding: `E:B`
 - ZenBrowser / FireFox
   - about:config -> disable middle click paste
 

@@ -33,8 +33,8 @@
 - Cozy
 - Drawing
 - Extension Manager
-- Eye of GNOME
 - Foliarte
+- Image Viewer
 - Identify
 - IntelliJ Community
 - Lutris

@@ -43,7 +43,7 @@
 - KindleComicConverter
 - Krita
 - Obsidian
-- OneDrive Client + GUI
+- OpenTabletDriver
 - Steam
 - YouTube Music
 - qBittorrent

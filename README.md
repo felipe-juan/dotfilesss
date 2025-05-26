@@ -34,6 +34,7 @@
 - Drawing
 - Extension Manager
 - Foliarte
+- Frog 
 - Image Viewer
 - Identify
 - IntelliJ Community

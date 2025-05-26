@@ -37,6 +37,7 @@
 - Frog 
 - Image Viewer
 - Identify
+- Inkscape
 - IntelliJ Community
 - Lutris
 - LocalSend

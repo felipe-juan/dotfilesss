@@ -46,6 +46,7 @@
 - KindleComicConverter
 - Krita
 - Obsidian
+- OBS Studio
 - OpenTabletDriver
 - Steam
 - YouTube Music

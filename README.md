@@ -42,6 +42,7 @@
 - Lutris
 - LocalSend
 - LibreSprite
+- Kdenlive
 - KindleComicConverter
 - Krita
 - Obsidian

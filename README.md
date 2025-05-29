@@ -29,6 +29,7 @@
 ### Current Applications
 - Anki
 - Black Box
+- Bottles
 - Calibre
 - Cozy
 - Drawing

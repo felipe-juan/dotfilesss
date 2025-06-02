@@ -11,6 +11,7 @@
 - Dark Pastel - Black Box
 
 ### Current Extensions
+- AppIndicator
 - Blur my Shell
 - Color Picker
 - Compact Top Bar

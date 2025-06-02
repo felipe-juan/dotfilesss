@@ -16,7 +16,9 @@
 - Color Picker
 - Compact Top Bar
 - Dash to Dock
+- Desktop Cube
 - Gnome 4x UI Improvements
+- Hanabi Extension
 - Just Perfection
 - Media Controls
 - Pano - Clipboard Manager

@@ -32,6 +32,7 @@
 - Bottles
 - Calibre
 - Cozy
+- DaVinci Resolve
 - Drawing
 - Extension Manager
 - Foliarte
@@ -42,7 +43,6 @@
 - IntelliJ Community
 - LocalSend
 - LibreSprite
-- Kdenlive
 - KindleComicConverter
 - Krita
 - Obsidian

@@ -11,20 +11,23 @@
 - Dark Pastel - Black Box
 
 ### Current Extensions
-- AppIndicator
+#### Visuality
 - Blur my Shell
-- Color Picker
 - Compact Top Bar
-- Dash to Dock
 - Desktop Cube
 - Hanabi Extension
 - Just Perfection
+- Rounded Window Corners Reborn
+- Unite
+
+#### Funcionality
+- AppIndicator
+- Color Picker
+- Dash to Dock
 - Media Controls
 - Pano - Clipboard Manager
 - Pop Shell
 - Quick Close in Overview
-- Rounded Window Corners Reborn
-- Unite
 - Vitals
 
 ### Current Applications

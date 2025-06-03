@@ -24,7 +24,6 @@
 - Pop Shell
 - Quick Close in Overview
 - Rounded Window Corners Reborn
-- Transparent Window Moving
 - Unite
 - Vitals
 

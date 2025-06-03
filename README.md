@@ -15,6 +15,7 @@
 - Blur my Shell
 - Compact Top Bar
 - Desktop Cube
+- Gnome 4x UI Improvements
 - Hanabi Extension
 - Just Perfection
 - Rounded Window Corners Reborn

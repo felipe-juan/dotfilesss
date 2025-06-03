@@ -4,7 +4,7 @@
 ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-04-13%2010-53-18.png)
 
 ### Current Themes
-- Orochis Dark
+- Orochis Dark / High Contrast Inverse
 - Default Fonts
 - Default Icons
 - Sunity Cursor

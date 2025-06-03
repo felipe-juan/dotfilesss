@@ -5,8 +5,8 @@
 
 ### Current Themes
 - Orochis Dark / High Contrast Inverse
+- WhiteSur Icons / Default Icons
 - Default Fonts
-- Default Icons
 - Sunity Cursor
 - Dark Pastel - Black Box
 

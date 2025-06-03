@@ -43,7 +43,6 @@
 - Foliarte
 - Frog 
 - Image Viewer
-- Identify
 - Inkscape
 - IntelliJ Community
 - LocalSend
@@ -59,7 +58,6 @@
 - Papers
 - Stremio
 - Syncthing
-- Kdenlive
 - Tweaks
 - TickTick
 - VSCodium

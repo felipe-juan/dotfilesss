@@ -36,6 +36,7 @@
 - Black Box
 - Bottles
 - Calibre
+- Celluloid
 - Cozy
 - DaVinci Resolve
 - Drawing

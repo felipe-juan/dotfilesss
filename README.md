@@ -7,11 +7,7 @@
 - Orochis Dark / High Contrast Inverse
 - WhiteSur Icons / Default Icons
 - Default Fonts
-- Sunity Cursorexport GTK_IM_MODULE=cedilla
-export QT_IM_MODULE=cedilla
-QT_WAYLAND_DISABLE_WINDOWDECORATION=1
-GTK_WAYLAND_DISABLE_WINDOWDECORATION=1
-WAYLAND_DISPLAY=no
+- Bibata Modern Ice
 - Dark Pastel - Black Box
 
 ### Current Extensions

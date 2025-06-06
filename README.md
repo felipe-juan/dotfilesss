@@ -60,8 +60,8 @@
 - Papers
 - Stremio
 - Syncthing
+- Todoist
 - Tweaks
-- TickTick
 - VSCodium
 - Xournal++
 - Zen Browser

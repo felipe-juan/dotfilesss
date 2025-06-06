@@ -102,8 +102,10 @@ WAYLAND_DISPLAY=no
 `gsettings set org.gnome.shell.window-switcher current-workspace-only false`
 
 ### /etc/environment edits
-```export GTK_IM_MODULE=cedilla
+```
+export GTK_IM_MODULE=cedilla
 export QT_IM_MODULE=cedilla
 QT_WAYLAND_DISABLE_WINDOWDECORATION=1
 GTK_WAYLAND_DISABLE_WINDOWDECORATION=1
-WAYLAND_DISPLAY=no```
+WAYLAND_DISPLAY=no
+```

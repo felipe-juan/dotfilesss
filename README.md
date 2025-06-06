@@ -59,7 +59,7 @@
 - qBittorrent
 - Papers
 - Stremio
-- Syncthing
+- Syncthing Tray
 - Todoist
 - Tweaks
 - VSCodium

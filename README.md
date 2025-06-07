@@ -58,6 +58,7 @@
 - YouTube Music
 - qBittorrent
 - Papers
+- Refine
 - Stremio
 - Syncthing
 - Todoist

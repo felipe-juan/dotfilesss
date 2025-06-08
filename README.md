@@ -79,8 +79,10 @@
 - Pop Shell / Forge
   - White Outline
   - Smart Gaps Disabled (Pop Shell)
-- Settings
+- Settings / Tweaks
   - Display > 100% Scale
+  - Font: 1.20 Scaling
+  > Fractional Scaling still sucks on Linux. So since I use a 14" laptop, the larger font makes for it.
 - OpenTabletDriver
   - DualActionBinds Plugin
   - Pen Binding: `E:B`

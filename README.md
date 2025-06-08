@@ -80,7 +80,7 @@
   - White Outline
   - Smart Gaps Disabled (Pop Shell)
 - Settings
-  - Display > 125% Scale
+  - Display > 100% Scale
 - OpenTabletDriver
   - DualActionBinds Plugin
   - Pen Binding: `E:B`

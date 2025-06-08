@@ -13,6 +13,7 @@
 ### Current Extensions
 #### Visuality
 - Blur my Shell
+- Compact Top Bar
 - Desktop Cube
 - Gnome 4x UI Improvements
 - Hanabi Extension

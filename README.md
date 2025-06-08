@@ -41,12 +41,14 @@
 - Drawing
 - Extension Manager
 - Foliarte
-- Frog 
+- Frog
+- Gradia
 - Image Viewer
 - Inkscape
 - IntelliJ Community
 - LocalSend
 - LibreSprite
+- Kasasa
 - KindleComicConverter
 - Krita
 - Obsidian

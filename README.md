@@ -93,7 +93,7 @@
   - about:config -> disable middle click paste
 - Bottles
   - Get sure you installed the flatpak version (.rpm wasn't working)
-  - You might put the files in `/home/felipejuan/.var/app/com.usebottles.bottles/data/bottles/bottles/[your created bottle]`   
+  - You might put the files in `/home/[your user]/.var/app/com.usebottles.bottles/data/bottles/bottles/[your created bottle]`   
 
 ### GSettings alterations
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`

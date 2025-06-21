@@ -99,7 +99,7 @@
   - LibreSprite
   - Xournal++
   - OpenTabletDriver
-  > Reason: The Flatpak versions of these apps still had the top bar, even though it had already been disabled and all the other apps had respected it.
+  > Reason: the flatpak versions of these apps still had the top bar, even though it had already been disabled and all the other apps had respected it.
 
 ### GSettings alterations
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`

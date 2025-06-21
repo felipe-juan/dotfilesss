@@ -43,6 +43,7 @@
 - Extension Manager
 - Foliarte
 - Frog
+- Gear Lever
 - Gradia
 - Image Viewer
 - Inkscape

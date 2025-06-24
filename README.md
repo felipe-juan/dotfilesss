@@ -56,7 +56,6 @@
 - Krita
 - Obsidian
 - OBS Studio
-- OneDrive + GUI
 - OpenTabletDriver
 - Steam
 - YouTube Music

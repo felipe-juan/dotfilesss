@@ -42,6 +42,7 @@
 - Drawing
 - Extension Manager
 - Foliarte
+- Footage
 - Frog
 - Gear Lever
 - Gradia
@@ -66,7 +67,6 @@
 - Syncthing
 - Todoist
 - Tweaks
-- Video Trimmer
 - VSCodium
 - Xournal++
 - Zen Browser

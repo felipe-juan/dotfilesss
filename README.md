@@ -96,12 +96,10 @@
 - Bottles
   - Get sure you installed the flatpak version (.rpm wasn't working)
   - You might put the files in `/home/[your user]/.var/app/com.usebottles.bottles/data/bottles/bottles/[your created bottle]`
-- Install non-flatpak version of following apps (rpm / appimage):
-  - Blender
-  - LibreSprite
-  - Xournal++
-  - OpenTabletDriver
-  > Reason: the flatpak versions of these apps still had the top bar, even though it had already been disabled and all the other apps had respected it.
+- Incoistencies with flatpaks:
+  - `sudo flatpak override --filesystem=xdg-config/gtk-3.0`
+  - `sudo flatpak override --filesystem=xdg-config/gtk-4.0`
+  > Reason: the flatpak versions of these apps would still have the top bar, even though it had already been disabled and all the other apps had respected it.
 
 ### GSettings alterations
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`

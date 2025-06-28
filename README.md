@@ -99,7 +99,7 @@
 - Incoistencies with flatpaks:
   - `sudo flatpak override --filesystem=xdg-config/gtk-3.0`
   - `sudo flatpak override --filesystem=xdg-config/gtk-4.0`
-  > Reason: the flatpak versions of these apps would still have the top bar, even though it had already been disabled and all the other apps had respected it.
+  > Reason: the flatpak versions of these apps would still have the top bar even though  had already been disabled on the Unite extension and all the other apps had respected it. If despite that it persists, so install a non-flatpak version of the same app.
 
 ### GSettings alterations
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`

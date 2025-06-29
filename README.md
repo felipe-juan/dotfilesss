@@ -38,7 +38,6 @@
 - Calibre
 - Celluloid
 - Cozy
-- DaVinci Resolve
 - Drawing
 - Extension Manager
 - Foliarte
@@ -52,6 +51,7 @@
 - LocalSend
 - LibreSprite
 - Kasasa
+- Kdenlive
 - KindleComicConverter
 - Krita
 - Obsidian

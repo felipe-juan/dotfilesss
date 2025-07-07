@@ -66,7 +66,8 @@
 - Syncthing
 - Todoist
 - Tweaks
-- virt-manager
+- Video Trimmer
+- Virtual Machine Manager
 - VSCodium
 - Xournal++
 - Zen Browser

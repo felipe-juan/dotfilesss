@@ -39,6 +39,7 @@
 - Celluloid
 - Cozy
 - Drawing
+- Dropbox
 - Extension Manager
 - Foliarte
 - Footage

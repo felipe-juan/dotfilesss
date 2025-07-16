@@ -23,6 +23,7 @@
 
 #### Funcionality
 - AppIndicator
+- Caffeine
 - Color Picker
 - Dash to Dock
 - Media Controls

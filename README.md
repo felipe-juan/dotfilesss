@@ -52,6 +52,7 @@
 - LocalSend
 - LibreSprite
 - Kasasa
+- KDE Connect
 - Kdenlive
 - KindleComicConverter
 - Krita

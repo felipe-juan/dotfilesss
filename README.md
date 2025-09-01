@@ -68,6 +68,7 @@
 - Syncthing
 - Todoist
 - Tweaks
+- Vesktop
 - Video Trimmer
 - Virtual Machine Manager
 - VSCodium

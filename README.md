@@ -19,6 +19,7 @@
 - Hanabi Extension
 - Just Perfection
 - Rounded Window Corners Reborn
+- Search Light
 - Unite
 
 #### Funcionality

@@ -29,7 +29,7 @@
 - Dash to Dock
 - Media Controls
 - Pano - Clipboard Manager
-- Pop Shell
+- Forge / Pop Shell
 - Screen Rotate
 - Quick Close in Overview
 - Vitals

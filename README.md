@@ -115,6 +115,8 @@
 
 `gsettings set org.gnome.shell.window-switcher current-workspace-only false`
 
+`gsettings set org.gnome.shell disable-extension-version-validation true`
+
 ### /etc/environment edits
 ```
 export GTK_IM_MODULE=cedilla

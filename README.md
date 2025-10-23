@@ -29,7 +29,7 @@
 - Dash to Dock
 - Media Controls
 - Pano - Clipboard Manager
-- Forge / Pop Shell
+- Pop Shell
 - Screen Rotate
 - Quick Close in Overview
 - Vitals
@@ -87,7 +87,7 @@
     - io.github.mrvladus.List
   - Windows
     - Focus on Hover 
-- Pop Shell / Forge
+- Pop Shell
   - White Outline
   - Smart Gaps Disabled (Pop Shell)
 - Settings / Tweaks

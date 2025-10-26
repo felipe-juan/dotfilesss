@@ -78,7 +78,7 @@
 - Zen Browser
 
 ### Random changes I made recently
-- Dash to Panel:
+- Dash to Panel
   - In order to make it work with the Dash to Dock extension, you have to:
     - Put it in a different position than the dock (they can't both be on the right side, for example).
     - Turn off the visibility of the "Taskbar." Personally, I would also turn off the "Show Applications" button.

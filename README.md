@@ -27,6 +27,7 @@
 - Caffeine
 - Color Picker
 - Dash to Dock
+- Dash to Panel
 - Media Controls
 - Pano - Clipboard Manager
 - Pop Shell

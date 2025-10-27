@@ -82,7 +82,7 @@
   - In order to make it work with the Dash to Dock extension, you have to:
     - Toggle on the "Keep original gnome-shell dash" option.
     - Put it in a different position than the dock (they can't both be on the right side, for example).
-    - Tuggle off the visibility of the "Taskbar." Personally, I would also toggle off the "Show Applications" button.
+    - Toggle off the visibility of the "Taskbar." Personally, I would also toggle off the "Show Applications" button.
 - BlackBox
   - No transparency
   - 15px Padding

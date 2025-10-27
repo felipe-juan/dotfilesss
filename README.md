@@ -14,7 +14,7 @@
 #### Visuality
 - Blur my Shell
 - Dash to Dock
-- Dash to Panel
+- Dash to Panel / Compact Top Bar
 - Desktop Cube
 - Gnome 4x UI Improvements
 - Hanabi Extension
@@ -32,7 +32,7 @@
 - Pop Shell
 - Screen Rotate
 - Quick Close in Overview
-- Vitals
+- RunCat / Vitals
 
 ### Current Applications
 - Anki

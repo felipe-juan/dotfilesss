@@ -57,6 +57,7 @@
 - KDE Connect
 - Kdenlive
 - KindleComicConverter
+- Komikku
 - Krita
 - Obsidian
 - OBS Studio

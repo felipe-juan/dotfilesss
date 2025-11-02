@@ -39,7 +39,6 @@
 - Black Box
 - Bottles
 - Calibre
-- Celluloid
 - Cozy
 - Drawing
 - Extension Manager
@@ -47,7 +46,7 @@
 - Frog
 - Gear Lever
 - Gradia
-- Image Viewer
+- Imgae Viewer (native)
 - Inkscape
 - IntelliJ Community
 - LocalSend
@@ -72,6 +71,7 @@
 - Todoist
 - Tweaks
 - Vesktop
+- Video Player (native)
 - Video Trimmer
 - Virtual Machine Manager
 - VSCodium

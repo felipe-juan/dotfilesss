@@ -44,7 +44,6 @@
 - Drawing
 - Extension Manager
 - Foliarte
-- Footage
 - Frog
 - Gear Lever
 - Gradia
@@ -61,6 +60,7 @@
 - Krita
 - Obsidian
 - OBS Studio
+- OnlyOffice
 - OpenTabletDriver
 - Steam
 - YouTube Music
@@ -76,6 +76,7 @@
 - Virtual Machine Manager
 - VSCodium
 - Xournal++
+- [YouTube Music](https://github.com/pear-devs/pear-desktop)
 - Zen Browser
 
 ### Random changes I made recently

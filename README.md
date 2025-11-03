@@ -42,7 +42,6 @@
 - Cozy
 - Drawing
 - Extension Manager
-- Foliarte
 - Frog
 - Gear Lever
 - Gradia
@@ -65,6 +64,7 @@
 - YouTube Music
 - qBittorrent
 - Papers
+- Readest
 - Refine
 - Stremio
 - Syncthing

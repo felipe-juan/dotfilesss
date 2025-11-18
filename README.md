@@ -39,6 +39,7 @@
 - Black Box
 - Bottles
 - Calibre
+- Celluloid
 - Cozy
 - Drawing
 - Extension Manager
@@ -71,7 +72,6 @@
 - Todoist
 - Tweaks
 - Vesktop
-- Video Player (native)
 - Video Trimmer
 - Virtual Machine Manager
 - VSCodium

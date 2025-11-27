@@ -43,6 +43,7 @@
 - Cozy
 - Drawing
 - Extension Manager
+- Flatseal
 - Frog
 - Gear Lever
 - Gradia

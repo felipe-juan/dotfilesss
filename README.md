@@ -38,6 +38,7 @@
 - Anki
 - Black Box
 - Bottles
+- Boxes
 - Calibre
 - Celluloid
 - Cozy

@@ -20,6 +20,7 @@
 - Gnome 4x UI Improvements
 - Hanabi Extension
 - Just Perfection
+- Rounded Window Corners Reborn
 - Search Light
 - Unite
 
@@ -29,13 +30,14 @@
 - Color Picker
 - Media Controls
 - Pano - Clipboard Manager
-- Pop Shell
+- Copyous (Pano Clipboard)
 - Screen Rotate
 - Quick Close in Overview
 - RunCat / Vitals
 
 ### Current Applications
 - Anki
+- Bazaar
 - Black Box
 - Bottles
 - Boxes
@@ -48,7 +50,7 @@
 - Frog
 - Gear Lever
 - Gradia
-- Imgae Viewer (native)
+- Image Viewer (native)
 - Inkscape
 - IntelliJ Community
 - LocalSend
@@ -64,7 +66,6 @@
 - OnlyOffice
 - OpenTabletDriver
 - Steam
-- YouTube Music
 - qBittorrent
 - Papers
 - Readest
@@ -75,7 +76,6 @@
 - Tweaks
 - Vesktop
 - Video Trimmer
-- Virtual Machine Manager
 - VSCodium
 - Xournal++
 - [YouTube Music](https://github.com/pear-devs/pear-desktop)

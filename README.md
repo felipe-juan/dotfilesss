@@ -60,6 +60,7 @@
 - Kdenlive
 - KindleComicConverter
 - Komikku
+- Kooha
 - Krita
 - Obsidian
 - OBS Studio

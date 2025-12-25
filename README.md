@@ -127,6 +127,8 @@
 
 `gsettings set org.gnome.shell disable-extension-version-validation true`
 
+`gsettings set org.gnome.desktop.wm.keybindings always-on-top "['<Alt>grave']"` 
+
 ### /etc/environment edits
 ```
 export GTK_IM_MODULE=cedilla

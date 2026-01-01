@@ -18,7 +18,7 @@
 - Dash to Panel / Compact Top Bar
 - Desktop Cube
 - Gnome 4x UI Improvements
-- Hanabi Extension
+- Hanabi Extension (+Clapper app)
 - Just Perfection
 - Rounded Window Corners Reborn
 - Search Light

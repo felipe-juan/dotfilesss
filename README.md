@@ -89,14 +89,15 @@
     - Put it in a different position than the dock (they can't both be on the right side, for example).
     - Toggle off the visibility of the "Taskbar." Personally, I would also toggle off the "Show Applications" button.
 - BlackBox
-  - No transparency
   - 15px Padding
+  - Transparency 85%
 - Gnome Tweaks
   - Startup Applications
     - Start Syncthing
     - io.github.mrvladus.List
   - Windows
-    - Focus on Hover 
+    - Focus on Hover
+    - Raise Windows When Focused 
 - Pop Shell
   - White Outline
   - Smart Gaps Disabled (Pop Shell)
@@ -128,6 +129,8 @@
 `gsettings set org.gnome.shell disable-extension-version-validation true`
 
 `gsettings set org.gnome.desktop.wm.keybindings always-on-top "['<Alt>grave']"` 
+
+`gsettings set org.gnome.desktop.wm.preferences auto-raise-delay 0` 
 
 ### /etc/environment edits
 ```

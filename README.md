@@ -14,6 +14,7 @@
 ### Current Extensions
 #### Visuality
 - Blur my Shell
+- Compact Top Bar
 - Dash to Dock
 - Dash to Panel / Compact Top Bar
 - Desktop Cube
@@ -22,6 +23,7 @@
 - Rounded Window Corners Reborn
 - Search Light
 - Unite
+- User Themes
 
 #### Funcionality
 - AppIndicator

@@ -6,7 +6,8 @@
 ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-04-13%2009-26-51.png)
 
 ### Current Themes
-- Shell: Orochis Dark + Darkwaita
+- Shell: Darkwaita + Orochis Darker
+  - You can have the "Orochis Darker" downloading it from here. It's the Orochis Dark, but with replacing a few colors to match the Darkwaita's. 
 - Icons: WhiteSur / Default 
 - Cursor: Bibata Modern Ice
 - Dark Pastel - Black Box

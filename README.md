@@ -47,9 +47,9 @@
 - Celluloid
 - Cozy
 - Drawing
+- Evince
 - Extension Manager
 - Flatseal
-- Frog
 - Gear Lever
 - Gradia
 - Hidamari
@@ -68,19 +68,16 @@
 - OBS Studio
 - Okular
 - OnlyOffice
-- OpenTabletDriver
 - Steam
 - qBittorrent
-- Papers
 - Readest
-- Refine
 - Stremio
 - Syncthing
 - Todoist
 - Tweaks
 - Vesktop
 - Video Trimmer
-- VSCodium
+- VSCodium  
 - Xournal++
 - [YouTube Music](https://github.com/pear-devs/pear-desktop)
 - Zen Browser

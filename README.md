@@ -5,10 +5,9 @@
 ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-11-02%2014-09-36.png)
 
 ### Current Themes
-- Orochis Dark / High Contrast Inverse
-- WhiteSur Icons / Default Icons
-- Default Fonts
-- Bibata Modern Ice
+- Shell: Orochis Dark
+- Icons: WhiteSur / Default 
+- Cursor: Bibata Modern Ice
 - Dark Pastel - Black Box
 
 ### Current Extensions

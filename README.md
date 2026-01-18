@@ -6,7 +6,7 @@
 ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-04-13%2009-26-51.png)
 
 ### Current Themes
-- Shell: Orochis Dark
+- Shell: Orochis Dark + Darkwaita
 - Icons: WhiteSur / Default 
 - Cursor: Bibata Modern Ice
 - Dark Pastel - Black Box

@@ -14,15 +14,14 @@
 ### Current Extensions
 #### Visuality
 - Blur my Shell
+- Burn my Windows 
 - Compact Top Bar
-- Dash to Dock
-- Dash to Panel / Compact Top Bar
+- Dash to Dock and/or Panel
 - Desktop Cube
 - Gnome 4x UI Improvements
 - Just Perfection
 - Rounded Window Corners Reborn
 - Search Light
-- Unite
 - User Themes
 
 #### Funcionality
@@ -30,11 +29,13 @@
 - Caffeine
 - Color Picker
 - Media Controls
-- Pano - Clipboard Manager
-- Copyous (Pano Clipboard)
+- Pop Shell
+- Copyous / Pano Clipboard
 - Screen Rotate
 - Quick Close in Overview
-- RunCat / Vitals
+- Vitals
+- RunCat
+- Unite
 
 ### Current Applications
 - Anki

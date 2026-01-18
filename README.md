@@ -47,7 +47,6 @@
 - Calibre
 - Celluloid
 - Cozy
-- Drawing
 - Evince
 - Extension Manager
 - Flatseal

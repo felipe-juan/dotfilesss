@@ -109,6 +109,7 @@
   - Pen Binding: `E:B`
 - ZenBrowser / FireFox
   - about:config -> disable middle click paste
+  - about:config -> mousewheel.with_control.action -> 5
 - Bottles
   - Get sure you installed the flatpak version (.rpm wasn't working)
   - You might put the files in `/home/[your user]/.var/app/com.usebottles.bottles/data/bottles/bottles/[your created bottle]`

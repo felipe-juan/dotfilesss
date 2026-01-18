@@ -4,7 +4,7 @@
 
 
 | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-11-02%2014-09-36.png)
-  | https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202026-01-18%2015-42-31.png
+  | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202026-01-18%2015-42-31.png)
  | 
 | ------------- | ------------- |
 | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-04-13%2009-26-51.png)

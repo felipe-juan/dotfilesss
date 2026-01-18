@@ -50,7 +50,6 @@
 - Frog
 - Gear Lever
 - Gradia
-- Image Viewer (native)
 - Inkscape
 - IntelliJ Community
 - LocalSend
@@ -64,6 +63,7 @@
 - Krita
 - Obsidian
 - OBS Studio
+- Okular
 - OnlyOffice
 - OpenTabletDriver
 - Steam

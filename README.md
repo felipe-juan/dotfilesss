@@ -1,6 +1,6 @@
 # dotfilesss
 ## (WIP) Lobotomized GNOME
-![](https://github.com/felipe-juan/dotfilesss/blob/main/ezgif-4bb8c31956f00131.gif)
+![](https://github.com/felipe-juan/dotfilesss/blob/main/ezgif-55b847aaa58db344.gif)
 
 
 | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-11-02%2014-09-36.png)  | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202026-01-18%2015-42-31.png)  | 
@@ -9,7 +9,7 @@
 
 ### Current Themes
 - Shell: Darkwaita + Orochis Darker
-  - You can have the "Orochis Darker" downloading it from here. It's the Orochis Dark, but with replacing a few colors to match the Darkwaita's. 
+  - You can have the "Orochis Darker" downloading it from here. It's the Orochis Dark theme, but with a few colors replaced to match the Darkwaita's. 
 - Icons: WhiteSur / Default 
 - Cursor: Bibata Modern Ice
 - Dark Pastel - Black Box

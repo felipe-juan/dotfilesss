@@ -75,7 +75,6 @@
 - Steam
 - Stremio
 - Syncthing
-- Todoist
 - Tweaks
 - Vesktop
 - Video Trimmer

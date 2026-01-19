@@ -95,6 +95,19 @@
 - BlackBox
   - 15px Padding
   - Transparency 85%
+- Nautilus
+  - Install the `ffmpegthumbnailer` package to have thumbnails in all the files as possible.
+  - Preferences
+    - General
+      - Expandable Folders in List View -> ON
+    - Perfomance
+      - Search in Subfolders -> All Locations
+      - Show Thumbnails -> All Files
+      - Count Number of Files in Folders -> All Folders
+    - Grid View Captions
+      - First -> Size
+      - Second -> Modified
+      - Third -> None 
 - Gnome Tweaks
   - Startup Applications
     - Start Syncthing

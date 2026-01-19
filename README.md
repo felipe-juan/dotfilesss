@@ -85,6 +85,10 @@
 - Zen Browser
 
 ### Random changes I made recently
+- XCompose
+  - Despite following the [XCompose instructions](https://github.com/raelgc/win_us_intl) to have a better international keyboard layout, the experience wasn´t smooth since for example, instead `'m`, it ends up being `ḿ`.
+  - However, you can edit the XCompose file to reject putting accents even on consoants, as I did. You can download on this repository.
+  - And I don´t know if it was supposed to behaviour like this, but I had to copy and paste all the content to be properly recognized as code after extracting it (?) 
 - Dash to Panel
   - In order to make it work with the Dash to Dock extension, you have to:
     - Toggle on the "Keep original gnome-shell dash" option.

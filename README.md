@@ -69,6 +69,7 @@
 - OBS Studio
 - Okular
 - OnlyOffice
+- Planify
 - Steam
 - qBittorrent
 - Readest

@@ -70,9 +70,9 @@
 - Okular
 - OnlyOffice
 - Planify
-- Steam
 - qBittorrent
 - Readest
+- Steam
 - Stremio
 - Syncthing
 - Todoist

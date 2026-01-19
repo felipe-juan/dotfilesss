@@ -54,6 +54,7 @@
 - Flatseal
 - Gear Lever
 - Gradia
+- Gwenview
 - Hidamari
 - Inkscape
 - IntelliJ Community

@@ -48,8 +48,6 @@
 - Boxes
 - Calibre
 - Celluloid
-- Cozy
-- Evince
 - Extension Manager
 - Flatseal
 - Gear Lever

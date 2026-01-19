@@ -53,6 +53,7 @@
 - Gear Lever
 - Gradia
 - Hidamari
+- Image viewer
 - Inkscape
 - IntelliJ Community
 - LocalSend

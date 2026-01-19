@@ -64,6 +64,7 @@
 - Komikku
 - Kooha
 - Krita
+- Mission Center
 - Obsidian
 - OBS Studio
 - Okular

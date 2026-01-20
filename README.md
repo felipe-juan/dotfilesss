@@ -8,8 +8,9 @@
 | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-04-13%2009-26-51.png)  | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20from%202024-10-22%2010-11-36.png)  |
 
 ### Current Themes
-- Shell: Darkwaita + Orochis Darker
-  - You can have the "Orochis Darker" downloading it from here. It's the Orochis Dark theme, but with a few colors replaced to match the Darkwaita's. 
+- Shell: Darkwaita + Custom Orochis Darker and Rosé Pine
+  - The first is from the [Darkwaita](https://github.com/varunbpatil/Darkwaita). Just clone his repository in the into `~/.local/share/themes`.
+  - I customized both the latter themes to match the Darkwaita's colors. You can download it there. The Rosé Pine is supposed to replace `$HOME/.config/gtk-4.0`, while Orochis to install just like any theme, so `$HOME/.themes/`.
 - Icons: WhiteSur / Default 
 - Cursor: Bibata Modern Ice
 - Dark Pastel - Black Box

@@ -1,11 +1,11 @@
 # dotfilesss
 ## (WIP) Lobotomized GNOME
-![](https://github.com/felipe-juan/dotfilesss/blob/main/ezgif-55b847aaa58db344.gif)
+![](https://github.com/felipe-juan/dotfilesss/blob/main/assets/ezgif-55b847aaa58db344.gif)
 
 
-| ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-11-02%2014-09-36.png)  | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202026-01-18%2015-42-31.png)  | 
+| ![](https://github.com/felipe-juan/dotfilesss/blob/main/assets/Screenshot%20From%202025-11-02%2014-09-36.png)  | ![](https://github.com/felipe-juan/dotfilesss/blob/main/assets/Screenshot%20From%202026-01-18%2015-42-31.png)  | 
 | ------------- | ------------- |
-| ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20From%202025-04-13%2009-26-51.png)  | ![](https://github.com/felipe-juan/dotfilesss/blob/main/Screenshot%20from%202024-10-22%2010-11-36.png)  |
+| ![](https://github.com/felipe-juan/dotfilesss/blob/main/assets/Screenshot%20From%202025-04-13%2009-26-51.png)  | ![](https://github.com/felipe-juan/dotfilesss/blob/main/assets/Screenshot%20from%202024-10-22%2010-11-36.png)  |
 
 ### Current Themes
 - Shell: Darkwaita + Custom Orochis Darker and Rosé Pine

@@ -135,6 +135,10 @@
   - Get sure you installed the flatpak version (.rpm wasn't working)
   - You might put the files in `/home/[your user]/.var/app/com.usebottles.bottles/data/bottles/bottles/[your created bottle]`
 - Incoistencies with flatpaks:
+  - If you notice that an app is not respecting the rounded corners, consider switching to the Flatseal window system and using either Wayland or X11 exclusively.
+    - For example: Obsidian = Wayland | LibreSprite = X11
+    - I didn't notice a pattern, so maybe it's trial and error. I had to do the above to have both apps having proper rounded cornres. 
+  - Consider running the commands below:  
   - `flatpak override --user --reset`
   - `sudo flatpak override --filesystem=$HOME/.themes`
   - `sudo flatpak override --filesystem=$HOME/.icons`
@@ -142,7 +146,7 @@
   - `sudo flatpak override --filesystem=xdg-config/gtk-4.0`
   - `flatpak override --user --filesystem=xdg-config/gtk-4.0`
   - `sudo flatpak override --filesystem=xdg-data/gnome-shell/extensions/unite@hardpixel.eu/styles`
-  > Reason: The flatpak versions of these apps still have the top bar, even though it had already been disabled on the Unite extension, and all the other apps had respected that. If it persists, install a non-Flatpak version of the same app.
+    > Reason: The flatpak versions of these apps still have the top bar, even though it had already been disabled on the Unite extension, and all the other apps had respected that. If it persists, install a non-Flatpak version of the same app.
 
 ### GSettings alterations
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`

@@ -33,7 +33,7 @@
 - Caffeine
 - Color Picker
 - Media Controls
-- Pop Shell / FOrge
+- Pop Shell / Forge
 - Copyous / Pano Clipboard
 - Screen Rotate
 - Quick Close in Overview

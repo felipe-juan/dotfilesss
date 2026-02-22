@@ -45,8 +45,8 @@
 - Anki
 - Bazaar
 - Black Box
-- Bottles
-- Boxes
+- Bottles (non-flatpak)
+- Boxes (non-flatpak)
 - Calibre
 - Celluloid
 - Extension Manager
@@ -56,7 +56,7 @@
 - Hidamari
 - Image viewer
 - Inkscape
-- IntelliJ Community
+- IntelliJ (non-flatpak)
 - LocalSend
 - LibreSprite
 - Kasasa
@@ -80,7 +80,7 @@
 - Tweaks
 - Vesktop
 - Video Trimmer
-- VSCodium  
+- VSCodium (non-flatpak)
 - Xournal++
 - [YouTube Music](https://github.com/pear-devs/pear-desktop)
 - Zen Browser
@@ -132,9 +132,6 @@
   - about:config
     - middle click paste -> OFF
     - mousewheel.with_control.action -> 5
-- Bottles
-  - Get sure you installed the flatpak version (.rpm wasn't working)
-  - You might put the files in `/home/[your user]/.var/app/com.usebottles.bottles/data/bottles/bottles/[your created bottle]`
 - Incoistencies with flatpaks:
   - Firstly, make sure all your flatpaks can access your files. On Flatseal, you can set All Applications in Filesystem -> Turn on all the four related options.
   - If you notice that an app is not respecting the rounded corners, consider switching to the Flatseal window system and using either Wayland or X11 exclusively.

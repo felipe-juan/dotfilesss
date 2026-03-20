@@ -56,7 +56,7 @@
 - Hidamari
 - Image viewer
 - Inkscape
-- IntelliJ (non-flatpak)
+- IntelliJ IDEA Open
 - LocalSend
 - LibreSprite
 - Kasasa

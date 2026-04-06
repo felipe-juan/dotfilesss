@@ -80,6 +80,7 @@
 - Tweaks
 - Vesktop
 - Video Trimmer
+- Vivaldi
 - VSCodium (non-flatpak)
 - Xournal++
 - [YouTube Music](https://github.com/pear-devs/pear-desktop)

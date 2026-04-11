@@ -10,7 +10,7 @@
 ### Current Themes
 - Shell: Darkwaita + Custom Orochis Darker and Rosé Pine
   - The first is from the [Darkwaita](https://github.com/varunbpatil/Darkwaita). Just clone his repository in the into `~/.local/share/themes`.
-  - I customized both the latter themes to match the Darkwaita's colors. You can download it there. The Rosé Pine is supposed to replace `$HOME/.config/gtk-4.0`, while Orochis to install just like any theme, so `$HOME/.themes/`.
+  - I customized both the latter themes to match the Darkwaita's colors. You can download it there. The Rosé Pine (the "gtk-4.0" folder in the root repo) is supposed to replace `$HOME/.config/gtk-4.0`, while Orochis to install just like any theme, so `$HOME/.themes/`.
 - Icons: WhiteSur / Default 
 - Cursor: Bibata Modern Ice
 - Dark Pastel - Black Box
@@ -22,6 +22,7 @@
 - Compact Top Bar
 - Dash to Dock and/or Panel
 - Desktop Cube
+- Dynamic Music Pill 
 - Gnome 4x UI Improvements
 - Just Perfection
 - Rounded Window Corners Reborn

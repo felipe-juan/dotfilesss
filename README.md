@@ -125,9 +125,9 @@
   - Smart Gaps Disabled (Pop Shell)
 - Settings / Tweaks
   - Display > 100% Scale
-  - Font: 1.20 Scaling
+  - Font: 1.25 Scaling
     - Alternatively, you can instead enable the "Large Text" option of the Accessility settings. It applies basically the same size and if you activate to always show the menu, you can easily enable/disable it whenever you want.
-  > Fractional Scaling still sucks on GNOME. So since I use a 14" laptop, the larger font makes for it.
+  > Fractional Scaling still sucks on GNOME as it is still affects perfomance considerably, because the way it does the scaling. So since I use a 14" laptop, the larger font makes for it as it also actually scales other elements quite well.
 - OpenTabletDriver
   - DualActionBinds Plugin
   - Pen Binding: `E:B`

@@ -126,7 +126,8 @@
 - Settings / Tweaks
   - Display > 100% Scale
   - Font: 1.20 Scaling
-  > Fractional Scaling still sucks on Linux. So since I use a 14" laptop, the larger font makes for it.
+    - Alternatively, you can instead enable the "Large Text" option of the Accessility settings. It applies basically the same size and if you activate to always show the menu, you can easily enable/disable it whenever you want.
+  > Fractional Scaling still sucks on GNOME. So since I use a 14" laptop, the larger font makes for it.
 - OpenTabletDriver
   - DualActionBinds Plugin
   - Pen Binding: `E:B`

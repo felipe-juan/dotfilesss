@@ -33,11 +33,13 @@
 - AppIndicator
 - Caffeine
 - Color Picker
+- Copyous / Pano Clipboard
+- Gradia Capture
 - Media Controls
 - Pop Shell / Forge
-- Copyous / Pano Clipboard
-- Screen Rotate
 - Quick Close in Overview
+- Screen Rotate
+- Text Capture
 - Vitals
 - RunCat
 - Unite

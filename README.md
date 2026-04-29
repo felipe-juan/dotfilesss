@@ -60,6 +60,7 @@
 - Image viewer
 - Inkscape
 - IntelliJ IDEA Open
+- Instant Eyedropper Reborn (IE-R)
 - LocalSend
 - LibreSprite
 - Kasasa
@@ -74,7 +75,7 @@
 - OBS Studio
 - Okular
 - OnlyOffice
-- Openscreen
+- Open Screen
 - Planify
 - qBittorrent
 - Readest

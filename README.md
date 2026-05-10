@@ -167,6 +167,8 @@
 
 `gsettings set org.gnome.desktop.wm.preferences auto-raise-delay 0` 
 
+`gsettings set org.gnome.desktop.wm.preferences button-layout ':'`
+
 ### /etc/environment edits
 ```
 export GTK_IM_MODULE=cedilla

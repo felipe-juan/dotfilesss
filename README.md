@@ -26,19 +26,17 @@
 - Gnome 4x UI Improvements
 - Just Perfection
 - Rounded Window Corners Reborn
-- Search Light
 - User Themes
 
 #### Funcionality
 - AppIndicator
 - Caffeine
-- Color Picker
 - Copyous / Pano Clipboard
 - Gradia Capture
 - Media Controls
 - Pop Shell / Forge
 - Quick Close in Overview
-- Screen Rotate
+- Shotzy
 - Text Capture
 - Vitals
 - RunCat

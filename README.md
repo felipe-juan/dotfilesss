@@ -25,6 +25,7 @@
 - Dynamic Music Pill 
 - Gnome 4x UI Improvements
 - Just Perfection
+- Live Lock Screen
 - Rounded Window Corners Reborn
 - User Themes
 

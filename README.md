@@ -35,7 +35,6 @@
 - Copyous / Pano Clipboard
 - Gradia Capture
 - GSConnect
-- Media Controls
 - Pop Shell / Forge
 - Quick Close in Overview
 - Shotzy

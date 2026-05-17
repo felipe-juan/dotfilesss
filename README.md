@@ -136,8 +136,8 @@
   - Pen Binding: `E:B`
 - ZenBrowser / FireFox
   - about:config
-    - middle click paste -> OFF
-    - mousewheel.with_control.action -> 5
+    - `mousewheel.with_control.action` -> 5
+    - `toolkit.tabbox.switchByScrolling` -> true
 - Incoistencies with flatpaks:
   - Firstly, make sure all your flatpaks can access your files. On Flatseal, you can set All Applications in Filesystem -> Turn on all the four related options.
   - If you notice that an app is not respecting the rounded corners, consider switching to the Flatseal window system and using either Wayland or X11 exclusively.

@@ -26,13 +26,14 @@
 - Gnome 4x UI Improvements
 - Just Perfection
 - Live Lock Screen
-- Rounded Window Corners Reborn
+- Rounded Window Corners Gnome 50
 - User Themes
 
 #### Funcionality
 - AppIndicator
 - Caffeine
 - Copyous / Pano Clipboard
+- Coverflow Alt-Tab
 - Gradia Capture
 - GSConnect
 - Pop Shell / Forge

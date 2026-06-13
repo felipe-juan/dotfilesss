@@ -33,12 +33,12 @@
 - AppIndicator
 - Caffeine
 - Copyous / Pano Clipboard
-- Coverflow Alt-Tab
 - Gradia Capture
 - GSConnect
 - Pop Shell / Forge
 - Quick Close in Overview
 - Shotzy
+- Smooth Zoom
 - Vitals
 - RunCat
 - Unite

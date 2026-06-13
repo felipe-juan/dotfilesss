@@ -78,6 +78,7 @@
 - Planify
 - qBittorrent
 - Readest
+- Resources
 - Steam
 - Stremio
 - Syncthing

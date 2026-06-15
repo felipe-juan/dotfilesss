@@ -75,13 +75,13 @@
 - Okular
 - OnlyOffice
 - Open Screen
-- Planify
 - qBittorrent
 - Readest
 - Resources
 - Steam
 - Stremio
 - Syncthing
+- TickTick
 - Tweaks
 - Vesktop
 - Video Trimmer

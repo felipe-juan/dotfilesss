@@ -53,9 +53,9 @@
 - Celluloid
 - Extension Manager
 - Flatseal
+- GDM Settings
 - Gear Lever
 - Gradia
-- Hidamari
 - Image viewer
 - Inkscape
 - IntelliJ IDEA Open

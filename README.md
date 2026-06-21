@@ -169,6 +169,7 @@
 
 `gsettings set org.gnome.desktop.wm.preferences button-layout ':'`
 
+`gsettings set org.gnome.shell always-show-log-out true`
 ### /etc/environment edits
 ```
 export GTK_IM_MODULE=cedilla

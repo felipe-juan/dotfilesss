@@ -87,7 +87,6 @@
 - Video Trimmer
 - Vivaldi
 - VSCodium (non-flatpak)
-- Xournal++
 - [YouTube Music](https://github.com/pear-devs/pear-desktop)
 - Zen Browser
 
@@ -155,7 +154,7 @@
       > Reason: The flatpak versions of these apps still have the top bar, even though it had already been disabled on the Unite extension, and all the other apps had respected that. If it persists, install a non-Flatpak version of the same app.
 
 ### GSettings alterations
-`gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`
+`gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Super>'`
 
 `gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true`
 

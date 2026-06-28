@@ -30,6 +30,7 @@
 - User Themes
 
 #### Funcionality
+- AATWS (Advanced Alt-Tab)
 - AppIndicator
 - Caffeine
 - Copyous / Pano Clipboard

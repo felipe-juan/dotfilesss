@@ -76,6 +76,7 @@
 - Okular
 - OnlyOffice
 - Open Screen
+- PureRef
 - qBittorrent
 - Readest
 - Resources

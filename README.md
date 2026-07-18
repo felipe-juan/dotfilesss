@@ -36,7 +36,7 @@
 - Copyous / Pano Clipboard
 - Gradia Capture
 - GSConnect
-- Pop Shell / Forge
+- Pop Shell / Forge / Mosaic WM
 - Quick Close in Overview
 - Shotzy
 - Smooth Zoom
@@ -56,6 +56,7 @@
 - Flatseal
 - GDM Settings
 - Gear Lever
+- GPaint
 - Gradia
 - Image viewer
 - Inkscape

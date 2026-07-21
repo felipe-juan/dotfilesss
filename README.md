@@ -20,7 +20,7 @@
 - Blur my Shell
 - Burn my Windows 
 - Compact Top Bar
-- Dash to Dock and/or Panel
+- Dash to Dock / Dash to Panel
 - Desktop Cube
 - Dynamic Music Pill 
 - Gnome 4x UI Improvements
@@ -30,18 +30,17 @@
 - User Themes
 
 #### Funcionality
-- AATWS (Advanced Alt-Tab)
 - AppIndicator
 - Caffeine
 - Copyous / Pano Clipboard
+- Mouse Follows Focus
 - Gradia Capture
 - GSConnect
 - Pop Shell / Forge / Mosaic WM
 - Quick Close in Overview
 - Shotzy
 - Smooth Zoom
-- Vitals
-- RunCat
+- Vitals + RunCat
 - Unite
 
 ### Current Applications

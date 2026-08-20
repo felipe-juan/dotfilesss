@@ -22,7 +22,8 @@
 - Compact Top Bar
 - Dash to Dock / Dash to Panel
 - Desktop Cube
-- Dynamic Music Pill 
+- Dynamic Music Pill
+- Dynamic Calendar, Clocks and Weather Icons [Reborn]
 - Gnome 4x UI Improvements
 - Just Perfection
 - Live Lock Screen

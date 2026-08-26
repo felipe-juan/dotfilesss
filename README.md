@@ -90,8 +90,8 @@
 - Video Trimmer
 - Vivaldi
 - VSCodium (non-flatpak)
-- [YouTube Music](https://github.com/pear-devs/pear-desktop)
 - Zen Browser
+- Zuno Player (YT Music)
 
 ### Random changes I made recently
 - XCompose

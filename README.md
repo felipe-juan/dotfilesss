@@ -16,6 +16,10 @@
 - Dark Pastel - Black Box
 
 ### Current Extensions
+## If you have multi-monitors:
+- Extension: [Workspace Islands](https://github.com/danielbernalo/gnome-workspace-islands)
+- App: [Hydrapaper](https://github.com/gabmus/hydrapaper) 
+
 #### Visuality
 - Blur my Shell
 - Burn my Windows 

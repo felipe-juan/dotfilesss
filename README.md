@@ -35,8 +35,9 @@
 - User Themes
 
 #### Funcionality
-- AppIndicator
+- AppIndicator Support
 - Caffeine
+- Color Picker (or the app IE-R)
 - Copyous / Pano Clipboard
 - Mouse Follows Focus
 - Gradia Capture

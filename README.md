@@ -76,6 +76,7 @@
 - Komikku
 - Kooha
 - Krita
+- Main Menu
 - Mission Center
 - Obsidian
 - OBS Studio

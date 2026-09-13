@@ -69,7 +69,7 @@
 - Instant Eyedropper Reborn (IE-R)
 - LocalSend
 - LibreSprite
-- Kasasa
+- Karere (WhatsApp Cliente)
 - KDE Connect
 - Kdenlive
 - KindleComicConverter

@@ -39,10 +39,10 @@
 - Caffeine
 - Color Picker (or the app IE-R)
 - Copyous / Pano Clipboard
+- Mosaic
 - Mouse Follows Focus
 - Gradia Capture
 - GSConnect
-- Pop Shell / Forge / Mosaic WM
 - Quick Close in Overview
 - Shotzy
 - Smooth Zoom
